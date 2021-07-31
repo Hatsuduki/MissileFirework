@@ -1,0 +1,5 @@
+name: MissileFirework
+version: ${project.version}
+main: io.github.hatsuduki.missilefirework.MissileFirework
+api-version: 1.17
+authors: [ Hatsuduki ]
